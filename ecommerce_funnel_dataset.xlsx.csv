@@ -1,0 +1,21 @@
+﻿User_ID,Session_ID,Device_Type,Traffic_Source,Product_Category,Product_Viewed,Added_To_Cart,Checkout_Started,Purchase_Completed,Cart_Value,Purchase_Value,Payment_Method,Session_Duration_Minutes,Bounce_Rate_Flag,Repeat_Customer,City
+U001,S001,Mobile,Organic,Fashion,Yes,Yes,Yes,Yes,3200,3200,UPI,12,No,Yes,Bangalore
+U002,S002,Desktop,Ads,Electronics,Yes,Yes,No,No,5500,0,Card,8,No,No,Mumbai
+U003,S003,Mobile,Social Media,Beauty,Yes,No,No,No,0,0,Wallet,2,Yes,No,Delhi
+U004,S004,Tablet,Referral,Home,Yes,Yes,Yes,Yes,4200,4200,COD,15,No,Yes,Hyderabad
+U005,S005,Mobile,Organic,Accessories,Yes,No,No,No,0,0,UPI,1,Yes,No,Chennai
+U006,S006,Desktop,Ads,Fashion,Yes,Yes,Yes,No,2800,0,Card,9,No,No,Pune
+U007,S007,Mobile,Social Media,Electronics,Yes,Yes,Yes,Yes,7600,7600,UPI,18,No,Yes,Mysore
+U008,S008,Mobile,Referral,Beauty,Yes,No,No,No,0,0,Wallet,3,Yes,No,Bangalore
+U009,S009,Desktop,Organic,Home,Yes,Yes,Yes,Yes,5100,5100,COD,14,No,Yes,Mumbai
+U010,S010,Tablet,Ads,Accessories,Yes,Yes,No,No,1500,0,UPI,5,No,No,Delhi
+U011,S011,Mobile,Social Media,Fashion,Yes,Yes,Yes,Yes,3400,3400,Wallet,11,No,Yes,Hyderabad
+U012,S012,Desktop,Referral,Electronics,Yes,No,No,No,0,0,Card,2,Yes,No,Chennai
+U013,S013,Mobile,Organic,Beauty,Yes,Yes,Yes,Yes,2100,2100,UPI,13,No,Yes,Pune
+U014,S014,Tablet,Ads,Home,Yes,Yes,No,No,3900,0,COD,6,No,No,Mysore
+U015,S015,Mobile,Social Media,Accessories,Yes,No,No,No,0,0,Wallet,1,Yes,No,Bangalore
+U016,S016,Desktop,Organic,Fashion,Yes,Yes,Yes,Yes,4600,4600,Card,16,No,Yes,Mumbai
+U017,S017,Mobile,Referral,Electronics,Yes,Yes,Yes,No,8800,0,UPI,10,No,No,Delhi
+U018,S018,Tablet,Ads,Beauty,Yes,No,No,No,0,0,COD,2,Yes,No,Hyderabad
+U019,S019,Mobile,Organic,Home,Yes,Yes,Yes,Yes,6700,6700,UPI,17,No,Yes,Chennai
+U020,S020,Desktop,Social Media,Fashion,Yes,Yes,No,No,2500,0,Wallet,7,No,No,Pune
