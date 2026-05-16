@@ -1,0 +1,2 @@
+# -E-Commerce-Funnel-Conversion-Analytics-Dashboard
+This project focuses on analyzing customer journey behavior, conversion funnels, revenue contribution, cart abandonment, bounce rates, and repeat customer trends using SQL and Power BI.  The dashboard provides actionable business insights to understand user behavior and optimize conversion performance in an e-commerce environment.
